@@ -9,13 +9,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-           <link rel="stylsheet" href="practice.css">
-         
-
-
-</style>
-<style>
+         <style>
         h1 {
             color: dark brown(43, 144, 226);
             text-align: center;
@@ -45,7 +39,7 @@ Islam is a complete way of life that teaches people to live with faith, kindness
 <a href="file:///C:/Users/LENOVO/Downloads/System_of_Islam__Nezam_23032025%20(1).pdf" download>
     SYSTEM OF ISLAM BOOK
 </a>
- </head>
+
  
  <img src="https://static.vecteezy.com/system/resources/thumbnails/050/981/503/small_2x/arabic-calligraphy-of-kalma-tayyab-la-ilaha-illallah-muhammadur-rasulullah-free-vector.jpg" alt="https://static.vecteezy.com/system/resources/thumbnails/050/981/503/small_2x/arabic-calligraphy-of-kalma-tayyab-la-ilaha-illallah-muhammadur-rasulullah-free-vector">
 </html>
